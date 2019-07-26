@@ -1,2 +1,2 @@
-# webpack-threejs-boilerplate
-A quick setup for threejs using webpack.
+# ShaderLearning
+Learning shaders through BookOfShaders[http://thebookofshaders.com]
